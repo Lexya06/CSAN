@@ -1,0 +1,6 @@
+C:\Users\ASUS\OneDrive\Рабочий стол\4 семестр\КСИС\Lab1\MyList\MyList\bin\Debug\MyList.dll
+C:\Users\ASUS\OneDrive\Рабочий стол\4 семестр\КСИС\Lab1\MyList\MyList\bin\Debug\MyList.pdb
+C:\Users\ASUS\OneDrive\Рабочий стол\4 семестр\КСИС\Lab1\MyList\MyList\obj\Debug\MyList.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Рабочий стол\4 семестр\КСИС\Lab1\MyList\MyList\obj\Debug\MyList.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Рабочий стол\4 семестр\КСИС\Lab1\MyList\MyList\obj\Debug\MyList.dll
+C:\Users\ASUS\OneDrive\Рабочий стол\4 семестр\КСИС\Lab1\MyList\MyList\obj\Debug\MyList.pdb

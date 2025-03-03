@@ -1,0 +1,13 @@
+C:\Users\ASUS\OneDrive\Рабочий стол\4 семестр\КСИС\Lab1\DevicesInNetwork\DevicesInNetwork\bin\Debug\DevicesInNetwork.exe.config
+C:\Users\ASUS\OneDrive\Рабочий стол\4 семестр\КСИС\Lab1\DevicesInNetwork\DevicesInNetwork\bin\Debug\DevicesInNetwork.exe
+C:\Users\ASUS\OneDrive\Рабочий стол\4 семестр\КСИС\Lab1\DevicesInNetwork\DevicesInNetwork\bin\Debug\DevicesInNetwork.pdb
+C:\Users\ASUS\OneDrive\Рабочий стол\4 семестр\КСИС\Lab1\DevicesInNetwork\DevicesInNetwork\obj\Debug\DevicesInNetwork.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Рабочий стол\4 семестр\КСИС\Lab1\DevicesInNetwork\DevicesInNetwork\obj\Debug\DevicesInNetwork.DevicesInUserNet.resources
+C:\Users\ASUS\OneDrive\Рабочий стол\4 семестр\КСИС\Lab1\DevicesInNetwork\DevicesInNetwork\obj\Debug\DevicesInNetwork.Properties.Resources.resources
+C:\Users\ASUS\OneDrive\Рабочий стол\4 семестр\КСИС\Lab1\DevicesInNetwork\DevicesInNetwork\obj\Debug\DevicesInNetwork.csproj.GenerateResource.cache
+C:\Users\ASUS\OneDrive\Рабочий стол\4 семестр\КСИС\Lab1\DevicesInNetwork\DevicesInNetwork\obj\Debug\DevicesInNetwork.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Рабочий стол\4 семестр\КСИС\Lab1\DevicesInNetwork\DevicesInNetwork\obj\Debug\DevicesInNetwork.exe
+C:\Users\ASUS\OneDrive\Рабочий стол\4 семестр\КСИС\Lab1\DevicesInNetwork\DevicesInNetwork\obj\Debug\DevicesInNetwork.pdb
+C:\Users\ASUS\OneDrive\Рабочий стол\4 семестр\КСИС\Lab1\DevicesInNetwork\DevicesInNetwork\bin\Debug\MyList.dll
+C:\Users\ASUS\OneDrive\Рабочий стол\4 семестр\КСИС\Lab1\DevicesInNetwork\DevicesInNetwork\bin\Debug\MyList.pdb
+C:\Users\ASUS\OneDrive\Рабочий стол\4 семестр\КСИС\Lab1\DevicesInNetwork\DevicesInNetwork\obj\Debug\DevicesI.D2E21F93.Up2Date
